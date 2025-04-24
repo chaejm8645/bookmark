@@ -13,7 +13,7 @@
 
 
 <p>
-<center style="color:#eee;">────────────────────────────────────────</center>
+<center style="color:#f4f4f4;font-weight:100;">────────────────────────────────────────</center>
 </p>
 
 
