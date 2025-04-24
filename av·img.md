@@ -12,9 +12,9 @@
 	- 사진, 일러스트, 비디오, 음악, 음향효과
 
 
-<p>
-<center style="color:#f4f4f4;font-weight:100;">────────────────────────────────────────</center>
-</p>
+
+<p style="color:#f4f4f4;text-align:center;font-weight:100;">────────────────────────────────────────</p>
+
 
 
 # design or templates
