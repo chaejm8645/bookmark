@@ -13,7 +13,7 @@
 
 
 
-<p style="color:#f4f4f4;text-align:center;font-weight:100;">────────────────────────────────────────</p>
+<p style="color:#f4f4f4;text-align:center;font-weight:100;width:100%">────────────────────────────────────────</p>
 
 
 
