@@ -1,12 +1,10 @@
 # bookmark<br>
 ### ref Blog<br>
 [뿌리깊은테크](https://mpling-rec.tistory.com/)
-
 <br><br>
 
 ### markdown<br>
 [마크다운](https://namu.wiki/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%AC%B8%EB%B2%95%20%EB%8F%84%EC%9B%80%EB%A7%90?from=%EB%82%98%EB%AC%B4%EB%A7%88%ED%81%AC#s-10)
-
 <br><br>
 
 ### emoji<br>
@@ -20,8 +18,15 @@
 [GIPHY](https://giphy.com/)
 [후킹밈(Hooking Meme)](https://hookingmeme.com/)
 [Tenor](https://tenor.com/ko/)
+<br><br>
 
+# colors<br>
+[색상피커](https://imagecolorpicker.com/ko)
+[컬러헌트](https://colorhunt.co/)
+[Adobe Color](https://color.adobe.com/ko/)
+[lolColors](https://www.webdesignrankings.com/resources/lolcolors/)
 
-
-
-
+# text<br>
+[한글 로렘입숨](https://iotoolkit.com/lorem-ipsum/)
+[Lorem Ipsum](https://www.lipsum.com/)
+<br><br>
