@@ -1,6 +1,7 @@
 # bookmark<br>
+
 ### ref Blog
-* [뿌리깊은테크](https://mpling-rec.tistory.com/)
+1. [뿌리깊은테크](https://mpling-rec.tistory.com/)
 
 <br><br>
 
