@@ -1,8 +1,6 @@
 # bookmark<br>
-<dl>
-  <dt>ref Blog</dt>
-  <dd>[뿌리깊은테크](https://mpling-rec.tistory.com/)</dd>
-</dl>
+### ref Blog
+* [뿌리깊은테크](https://mpling-rec.tistory.com/)
 
 <br><br>
 
