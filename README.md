@@ -11,30 +11,30 @@
 <br><br>
 
 ### emoji
-[emojidb](https://emojidb.org/sound-file-emojis)<span style="margin: 0 4px !important;">|</sapn>
-[emojipedia](https://emojipedia.org/)<span style="margin: 0 4px !important;">|</sapn>
+[emojidb](https://emojidb.org/sound-file-emojis)<span style="margin-left:4px!important; margin-right:4px!important;">|</sapn>
+[emojipedia](https://emojipedia.org/)<span style="margin-left:4px!important; margin-right:4px!important;">|</sapn>
 [emojiterra](https://emojiterra.com/)
 
 <br><br>
 
 ### meam
-[YARN](https://yarn.co/)<span style="margin: 0 4px !important;">|</sapn>
-[GIPHY](https://giphy.com/)<span style="margin: 0 4px !important;">|</sapn>
-[후킹밈(Hooking Meme)](https://hookingmeme.com/)<span style="margin: 0 4px !important;">|</sapn>
+[YARN](https://yarn.co/)<span style="margin-left:4px!important; margin-right:4px!important;">|</sapn>
+[GIPHY](https://giphy.com/)<span style="margin-left:4px!important; margin-right:4px!important;">|</sapn>
+[후킹밈(Hooking Meme)](https://hookingmeme.com/)<span style="margin-left:4px!important; margin-right:4px!important;">|</sapn>
 [Tenor](https://tenor.com/ko/)
 
 <br><br>
 
 ### colors
-[색상피커](https://imagecolorpicker.com/ko)<span style="margin: 0 4px !important;">|</sapn>
-[컬러헌트](https://colorhunt.co/)<span style="margin: 0 4px !important;">|</sapn>
-[Adobe Color](https://color.adobe.com/ko/)<span style="margin: 0 4px !important;">|</sapn>
+[색상피커](https://imagecolorpicker.com/ko)<span style="margin-left:4px!important; margin-right:4px!important;">|</sapn>
+[컬러헌트](https://colorhunt.co/)<span style="margin-left:4px!important; margin-right:4px!important;">|</sapn>
+[Adobe Color](https://color.adobe.com/ko/)<span style="margin-left:4px!important; margin-right:4px!important;">|</sapn>
 [lolColors](https://www.webdesignrankings.com/resources/lolcolors/)
 
 <br><br>
 
 ### text
-[한글 로렘입숨](https://iotoolkit.com/lorem-ipsum/)<span style="margin: 0 4px !important;">|</sapn>
+[한글 로렘입숨](https://iotoolkit.com/lorem-ipsum/)<span style="margin-left:4px!important; margin-right:4px!important;">|</sapn>
 [Lorem Ipsum](https://www.lipsum.com/)
 
 <br><br>
