@@ -2,7 +2,10 @@
 
 ### ref Blog
 [뿌리깊은테크](https://mpling-rec.tistory.com/)
+[봉구티비](https://blog.naver.com/bong9tv/223616477002)
+[봉구강좌](https://www.youtube.com/playlist?list=PLHVQkrcP8Eg7W-0-1yJaxF8bXhGlSXHqx)
 [new-app](https://new-app.download/article-category/guide/premiere-pro/)
+
 
 
 <br><br>
