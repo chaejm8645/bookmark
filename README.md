@@ -8,7 +8,7 @@
 <br><br>
 
 ### emoji<br>
-[emojidb](https://emojidb.org/sound-file-emojis)
+[emojidb](https://emojidb.org/sound-file-emojis)[br]
 [emojipedia](https://emojipedia.org/)
 [emojiterra](https://emojiterra.com/)
 <br><br>
