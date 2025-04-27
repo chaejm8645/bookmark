@@ -1,4 +1,4 @@
-# bookmark<br>
+# bookmark
 
 ### ref Blog
 [뿌리깊은테크](https://mpling-rec.tistory.com/)
@@ -11,30 +11,30 @@
 <br><br>
 
 ### emoji
-[emojidb](https://emojidb.org/sound-file-emojis)<br>
-[emojipedia](https://emojipedia.org/)<br>
-[emojiterra](https://emojiterra.com/)<br>
+[emojidb](https://emojidb.org/sound-file-emojis)<span style="padding: 0 4px !important;">|</sapn>
+[emojipedia](https://emojipedia.org/)<span style="padding: 0 4px !important;">|</sapn>
+[emojiterra](https://emojiterra.com/)
 
 <br><br>
 
 ### meam
-[YARN](https://yarn.co/)<br>
-[GIPHY](https://giphy.com/)<br>
-[후킹밈(Hooking Meme)](https://hookingmeme.com/)<br>
-[Tenor](https://tenor.com/ko/)<br>
+[YARN](https://yarn.co/)<span style="padding: 0 4px !important;">|</sapn>
+[GIPHY](https://giphy.com/)<span style="padding: 0 4px !important;">|</sapn>
+[후킹밈(Hooking Meme)](https://hookingmeme.com/)<span style="padding: 0 4px !important;">|</sapn>
+[Tenor](https://tenor.com/ko/)
 
 <br><br>
 
 ### colors
-[색상피커](https://imagecolorpicker.com/ko)<br>
-[컬러헌트](https://colorhunt.co/)<br>
-[Adobe Color](https://color.adobe.com/ko/)<br>
-[lolColors](https://www.webdesignrankings.com/resources/lolcolors/)<br>
+[색상피커](https://imagecolorpicker.com/ko)<span style="padding: 0 4px !important;">|</sapn>
+[컬러헌트](https://colorhunt.co/)<span style="padding: 0 4px !important;">|</sapn>
+[Adobe Color](https://color.adobe.com/ko/)<span style="padding: 0 4px !important;">|</sapn>
+[lolColors](https://www.webdesignrankings.com/resources/lolcolors/)
 
 <br><br>
 
 ### text
-[한글 로렘입숨](https://iotoolkit.com/lorem-ipsum/)<br>
-[Lorem Ipsum](https://www.lipsum.com/)<br>
+[한글 로렘입숨](https://iotoolkit.com/lorem-ipsum/)<span style="padding: 0 4px !important;">|</sapn>
+[Lorem Ipsum](https://www.lipsum.com/)
 
 <br><br>
