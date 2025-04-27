@@ -2,6 +2,8 @@
 
 ### ref Blog
 [뿌리깊은테크](https://mpling-rec.tistory.com/)
+[new-app](https://new-app.download/article-category/guide/premiere-pro/)
+
 
 <br><br>
 
