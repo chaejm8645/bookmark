@@ -22,7 +22,8 @@
 ### emoji
 [emojidb](https://emojidb.org/sound-file-emojis)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
 [emojipedia](https://emojipedia.org/)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
-[emojiterra](https://emojiterra.com/)
+[emojiterra](https://emojiterra.com/)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
+[piliapp](https://kr.piliapp.com/emoji/list/)
 
 <br><br>
 
