@@ -39,4 +39,11 @@
 [프리폰트100](https://freefont100.com/)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
 [눈누](https://noonnu.cc/font_page/pick)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
 [네이버한글](https://hangeul.naver.com/)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
+<br><br>
+### 이모티콘 링크
+[DA-SHIO](https://yabeline.tw/Stickers_Search.php?Creative=DA-SHIO "https://yabeline.tw/Stickers_Search.php?Creative=DA-SHIO")<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
+[路易斯與布丁](https://yabeline.tw/Stickers_Search.php?Creative=%E8%B7%AF%E6%98%93%E6%96%AF%E8%88%87%E5%B8%83%E4%B8%81)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
+[黑白雞](https://yabeline.tw/Stickers_Search.php?Search=%E9%BB%91%E7%99%BD%E9%9B%9E)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
+[Gigno System Japan](https://yabeline.tw/Stickers_Search.php?Creative=Gigno+System+Japan)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
+[sanpoimo](https://yabeline.tw/Stickers_Search.php?Creative=sanpoimo)
 
