@@ -6,7 +6,6 @@
 [봉구강좌](https://www.youtube.com/playlist?list=PLHVQkrcP8Eg7W-0-1yJaxF8bXhGlSXHqx)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
 [new-app](https://new-app.download/article-category/guide/premiere-pro/)
 <br><br>
-
 ### data 
 [kosis국가통계포털](https://kosis.kr/search/search.do)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
 [분야별인기검색어](https://datalab.naver.com/)
