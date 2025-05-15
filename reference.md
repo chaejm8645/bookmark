@@ -23,7 +23,7 @@
 [牛小吉和小白菜表情包](https://www.nuanque.com/gallery/emoticon/40412.html)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
 [섹시고양이](https://www.nuanque.com/gallery/emoticon/29688.html)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
 [야옹이곰](https://www.nuanque.com/gallery/emoticon/13329.html)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
-
+[못난이](https://www.nuanque.com/gallery/emoticon/97986.html)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
 
 
 
