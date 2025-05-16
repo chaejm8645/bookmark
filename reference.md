@@ -1,5 +1,7 @@
 ### Kakao Talk Emoticon
 [유랑](https://e.kakao.com/creator/JAGPC8?ip=068PLH)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
+[쩡고](https://e.kakao.com/search?q=%EC%A9%A1%EA%B3%A0)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
+[네쩡](https://e.kakao.com/creator/L1RK80)
 <br><br>
 <br><br>
 ### yabeline
