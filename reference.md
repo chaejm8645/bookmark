@@ -1,3 +1,7 @@
+### Kakao Talk Emoticon
+[유랑](https://e.kakao.com/creator/JAGPC8?ip=068PLH)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
+<br><br>
+<br><br>
 ### yabeline
 [오리維嚇嚇](https://yabeline.tw/Stickers_Search.php?Search=%E7%B6%AD%E5%9A%87%E5%9A%87&Type=0)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
 [병아리커플黑白雞](https://yabeline.tw/Stickers_Search.php?Search=%E9%BB%91%E7%99%BD%E9%9B%9E)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
@@ -13,11 +17,8 @@
 [kupaberu](https://yabeline.tw/Stickers_Search.php?Search=kupaberu&Type=0)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
 [KayanuYumi](https://yabeline.tw/Stickers_Search.php?Search=KayanuYumi&Type=0)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
 [고양이pochi](https://yabeline.tw/Stickers_Search.php?Search=pochi&Type=0)
-
 <br><br>
 <br><br>
-<br><br>
-
 ### nuanque
 [중국사이트](https://www.nuanque.com/gallery/emoticon/page/2)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
 [萌小柴第一弹](https://www.nuanque.com/gallery/emoticon/41537.html)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
