@@ -80,7 +80,7 @@ Malware
 
 Multipurpose
 
-uBlock combo list (8.1만 규칙) (호환성 및 최적화 이슈)
+[uBlock combo list (8.1만 규칙) (호환성 및 최적화 이슈)](url)
 
 (선택 사항 : 이러한 모든 하위 필터를 원하지 않을 수도 있고 별도의 목록을 사용하는 것을 선호할 수도 있음)
 
@@ -93,9 +93,9 @@ List-KR
 
 Youslist보다 대응대처가 빠르며 광범위합니다 Youslist의 일부 구문을 포함합니다
 
-개인적인 성가심 목록
+[개인적인 성가심 목록](https://github.com/chaejm8645/bookmark/blob/main/folders/adguarddc01.md)
 
-개인적인 성가심 목록 (모바일)
+[개인적인 성가심 목록 (모바일)](https://github.com/chaejm8645/bookmark/blob/main/folders/adguarddc01m.md)
 
 
 
@@ -135,7 +135,7 @@ Youslist보다 대응대처가 빠르며 광범위합니다 Youslist의 일부 �
 
 ublacklist용이지만 애드가드에서 사용가능한 필터들
 
-- uBlockOrigin & uBlacklist laylavish 의 거대한 AI 차단 목록
+- [uBlockOrigin & uBlacklist laylavish 의 거대한 AI 차단 목록]([url](https://github.com/chaejm8645/bookmark/blob/main/folders/adguarddc02.md))
 
 AI로 생성된 쌀먹사이트를 전부 제거합니다
 
