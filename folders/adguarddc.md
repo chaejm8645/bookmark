@@ -135,7 +135,7 @@ Youslist보다 대응대처가 빠르며 광범위합니다 Youslist의 일부 �
 
 ublacklist용이지만 애드가드에서 사용가능한 필터들
 
-- [uBlockOrigin & uBlacklist laylavish 의 거대한 AI 차단 목록]([url](https://github.com/chaejm8645/bookmark/blob/main/folders/adguarddc02.md))
+- [uBlockOrigin & uBlacklist laylavish 의 거대한 AI 차단 목록](https://github.com/chaejm8645/bookmark/blob/main/folders/adguarddc02.md)
 
 AI로 생성된 쌀먹사이트를 전부 제거합니다
 
