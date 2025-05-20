@@ -139,11 +139,11 @@ ublacklist용이지만 애드가드에서 사용가능한 필터들
 
 AI로 생성된 쌀먹사이트를 전부 제거합니다
 
-- [uBlock-Origin-dev-filter](https://github.com/chaejm8645/bookmark/blob/main/folders/adguarddc03.md)
+- [uBlock-Origin-dev-filter](https://github.com/chaejm8645/bookmark/blob/main/folders/adguarddc04.md)
 
 유명웹사이트의 모방사이트들을 제거합니다 (ex, github -> giters)
 
-- [Spamdexing Sites Blocklist](https://github.com/chaejm8645/bookmark/blob/main/folders/adguarddc04.md)
+- [Spamdexing Sites Blocklist](https://github.com/chaejm8645/bookmark/blob/main/folders/adguarddc03.md)
 
 스팸덱싱 사이트를 제거합니다
 
