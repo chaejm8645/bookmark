@@ -52,6 +52,7 @@
 <br><br>
 ### etc tip
 [전자책통합](http://xn--ebook-9zu.chichi.dev/)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
+[노션 단축키](https://naeda01.notion.site/16cae00fc56a80d5bb15d0eddff13c65)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
 [인스타 활성화](https://www.instagram.com/hey_wassssup_/)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
 [hand draw icon](https://www.vecteezy.com/vector-art/42584292-no-3-set-of-cute-icon-summer-concept-in-line-hand-drawn-style-cartoon-design-collection-under-the-water-animal-sea-and-beach-trip-swim-kawaii-vector-illustration)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
 [Image generation](https://platform.openai.com/docs/guides/image-generation?image-generation-model=gpt-image-1&lang=python)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
