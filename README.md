@@ -47,3 +47,28 @@
 [Gigno System Japan](https://yabeline.tw/Stickers_Search.php?Creative=Gigno+System+Japan)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
 [sanpoimo](https://yabeline.tw/Stickers_Search.php?Creative=sanpoimo)
 
+<br><br>
+
+### 유튜브 다운로더
+[ssyoutube](https://ssyoutube.com/ko79ZN/)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
+
+<br><br>
+
+### etc tip
+[전자책통합](http://xn--ebook-9zu.chichi.dev/)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
+[인스타 활성화](https://www.instagram.com/hey_wassssup_/)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
+[hand draw icon](https://www.vecteezy.com/vector-art/42584292-no-3-set-of-cute-icon-summer-concept-in-line-hand-drawn-style-cartoon-design-collection-under-the-water-animal-sea-and-beach-trip-swim-kawaii-vector-illustration)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
+[Image generation](https://platform.openai.com/docs/guides/image-generation?image-generation-model=gpt-image-1&lang=python)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
+[더나은결과를위해](https://gptskorea.com/BLOG/?idx=131526962&bmode=view)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
+
+<br><br>
+
+### win10 프린트스크린제거/
+[프린트스크린제거](https://recycling05.com/entry/%E3%85%81Windows-10-Print-Screen-Key-%EB%B9%84%ED%99%9C%EC%84%B1%ED%99%94-%EB%B0%8F-%ED%99%94%EB%A9%B4-%EC%BA%A1%EC%B2%98-%EB%B9%84%ED%99%9C%EC%84%B1%ED%99%94-%EB%B0%A9%EB%B2%95-%EC%95%88%EB%82%B4)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
+
+
+
+
+<br><br>
+<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
+
