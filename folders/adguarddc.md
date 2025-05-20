@@ -151,26 +151,25 @@ AI로 생성된 쌀먹사이트를 전부 제거합니다
 
 DNS 필터 목록
 
-- HaGeZi Multi PRO mini
+- [HaGeZi Multi PRO mini](https://github.com/chaejm8645/bookmark/blob/main/folders/HaGeZi%20Multi%20PRO%20mini.txt)
 
 대다수 범위의 광고 및 트래커, 방해요소 등등을 차단합니다
 
-- KOR: List-KR DNS
+- [KOR: List-KR DNS](https://github.com/chaejm8645/bookmark/blob/main/folders/List-KR%20DNS.txt)
 
 한국어 계열 광고사이트를 차단합니다
 
-- Native Tracker - Microsoft
+- [Native Tracker - Microsoft](https://github.com/chaejm8645/bookmark/blob/main/folders/Native%20Tracker%20-%20Microsoft.txt)
 
 윈도우, 오피스에 심어진 트래커를 차단합니다
 
-- Native Tracker - Samsung
-
+- [Native Tracker - Samsung](https://github.com/chaejm8645/bookmark/blob/main/folders/Native%20Tracker%20-%20Samsung.txt)
 사용자 추적을 위한 삼성의 트래커를 차단합니다
 
-- Lightswitch05's AMP hosts
+- [Lightswitch05's AMP hosts](https://github.com/chaejm8645/bookmark/blob/main/folders/HaGeZi%20Multi%20PRO%20mini.txt)
 모바일에서 AMP 페이지를 유저스크립트 대신 필터화 시킨 버전입니다.
 
-- Threat Intelligence Feeds
+- [Threat Intelligence Feeds](https://github.com/chaejm8645/bookmark/blob/main/folders/Threat%20Intelligence%20Feeds.txt)
 
 멀웨어, 크립토재킹, 사기, 스팸 및 피싱을 차단하기 위한 차단 목록입니다. 멀웨어를 퍼뜨리고, 피싱 공격을 시작하고, 명령 및 제어 서버를 호스팅하는 것으로 알려진 도메인을 차단합니다.
 
