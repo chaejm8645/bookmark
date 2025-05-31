@@ -61,9 +61,8 @@
 ### win10 프린트스크린제거/
 [프린트스크린제거](https://recycling05.com/entry/%E3%85%81Windows-10-Print-Screen-Key-%EB%B9%84%ED%99%9C%EC%84%B1%ED%99%94-%EB%B0%8F-%ED%99%94%EB%A9%B4-%EC%BA%A1%EC%B2%98-%EB%B9%84%ED%99%9C%EC%84%B1%ED%99%94-%EB%B0%A9%EB%B2%95-%EC%95%88%EB%82%B4)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
 
-
-
-
 <br><br>
 <span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
 
+### 티스토리 노션처림
+[옵시디언으로 티스토리](https://dnai-deny.tistory.com/116)<span style="margin-left:4px!important; margin-right:4px!important;"> ,</sapn>
